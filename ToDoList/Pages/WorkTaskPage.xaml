@@ -1,0 +1,34 @@
+﻿<Page x:Class="ToDoList.WorkTaskPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ToDoList"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="WorkTaskPage">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center">
+            <TextBlock Text="Taski do zrobienia:"></TextBlock>
+            <ScrollViewer Height="200" Width="600">
+                <ItemsControl ItemsSource="{Binding WorkTaskList}" Margin="10">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <local:WorkTask />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            </ScrollViewer>
+            <TextBlock Text="Tytul"/>
+            <TextBox Text="{Binding NewTaskTitle}" />
+            <TextBlock Text="Opis"/>
+            <TextBox Text="{Binding NewTaskDescription}"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Dodaj" Command="{Binding AddTaskComand}"></Button>
+                <Button Content="Usuń" Command="{Binding DeleteTaskComand}"></Button>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+</Page>

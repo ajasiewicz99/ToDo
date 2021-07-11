@@ -1,0 +1,12 @@
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.deps.json
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csprojAssemblyReference.cache
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfoInputs.cache
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfo.cs
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Database.dll
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Database.pdb
+C:\Users\w61961\source\repos\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CopyComplete
